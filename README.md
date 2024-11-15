@@ -1,5 +1,6 @@
 ## Hi there 👋
-![sqs's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=open_sun)
+
+you are my![Visitor Count](https://profile-counter.glitch.me/open_sun/count.svg) visitors.
 
 <!--
 **open-sun/open-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
