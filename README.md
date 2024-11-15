@@ -1,4 +1,5 @@
 ## Hi there 👋
+![sqs's GitHub stats](https://github-readme-stats.vercel.app/api?username=open_sun)
 
 <!--
 **open-sun/open-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
